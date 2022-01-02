@@ -31,5 +31,3 @@
 <h4 align="center">
     <a href="https://www.linkedin.com/in/victorluismf/" target="_blank">Linkedin</a> 👋
 </h4>
-
- 
