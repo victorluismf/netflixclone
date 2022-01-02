@@ -3,9 +3,9 @@
     <br>
 </h1>
 
-<h3 align="center">
+<h2 align="center">
     Victor Luis - Netflix Clone
-</h3>
+</h2>
 
 <h4 align="center">
   <p>Técnologias: JavaScript, HTML, CSS e React JS.</p>
