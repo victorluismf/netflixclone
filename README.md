@@ -3,9 +3,11 @@
     <br>
 </h1>
 
+<h3 align="center">
+    Victor Luis - Netflix Clone
+</h3>
+
 <h4 align="center">
-  <p font-size="30px">Victor Luis - Netflix Clone</p>
-  
   <p>Técnologias: JavaScript, HTML, CSS e React JS.</p>
     
   <p>Responsivo: Parcialmente.</p>
