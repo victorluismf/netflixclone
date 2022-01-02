@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  <p>Victor Luis - Netflix Clone</p>
+  <p font-size="30px">Victor Luis - Netflix Clone</p>
   
   <p>Técnologias: JavaScript, HTML, CSS e React JS.</p>
     
