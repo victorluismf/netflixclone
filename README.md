@@ -12,7 +12,7 @@
     
   <p>Responsivo: Parcialmente.</p>
 
-  <p>Objetivo: Praticar requisição em API com arquivo tipo JSON.</p>
+  <p>Objetivo: Consumir API com arquivo tipo JSON e reproduzir interface da Netflix.</p>
   <br>
 </h4>
 
